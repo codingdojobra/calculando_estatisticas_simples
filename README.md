@@ -42,3 +42,7 @@ git commit -am "Adiciona nova solução no branch TAL desenvolvida por @SEU_USER
 ```sh
 git push --all
 ```
+
+## Branchs
+> **arquivos_separados:** solução desenvolvida por @MacConsoli implementando de uma
+> forma um pouco mais pythonica e separando produção e tests.
